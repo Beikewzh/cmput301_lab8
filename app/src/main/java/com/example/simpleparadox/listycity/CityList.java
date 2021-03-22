@@ -79,6 +79,6 @@ public class CityList {
     }
 
     public static boolean IamGroot() {
-        return false;
+        return true;
     }
 }
